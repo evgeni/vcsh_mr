@@ -1,0 +1,2 @@
+[$HOME/.zsh/grml-etc-core]
+checkout = git clone 'git://github.com/grml/grml-etc-core.git' 'grml-etc-core'
